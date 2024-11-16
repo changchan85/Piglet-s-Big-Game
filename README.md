@@ -33,17 +33,6 @@ In Piglet's Big Game, players navigate through various dreamscape environments, 
 - Complete mini-games and puzzles
 - Help friends through different scenarios
 
-## Technical Requirements
-
-To enjoy Piglet's Big Game, ensure your system meets these specifications:
-
-- **Operating System**: Windows 7/8/10/11
-- **Processor**: 2.0 GHz or faster
-- **Memory**: 4 GB RAM minimum
-- **Graphics**: DirectX 9 compatible graphics card
-- **Storage**: 2 GB available space
-- **Internet**: Broadband connection for updates
-
 ## Community Features
 
 Piglet's Big Game fosters a vibrant community through:
@@ -96,11 +85,7 @@ To make the most of your Piglet's Big Game experience:
 
 For assistance with Piglet's Big Game:
 
-- Visit our official website: [pigletsbiggame.pro](https://pigletsbiggame.pro)
-- Join our Discord community
-- Check our FAQ section
-- Contact customer support
-- Follow our social media channels
+- Visit our website: [pigletsbiggame.pro](https://pigletsbiggame.pro/)
 
 ## Contributing
 
@@ -121,20 +106,6 @@ The future of Piglet's Big Game looks bright with planned developments including
 - Additional character customization options
 - Expanded multiplayer features
 - Regular content updates
-
-## Stay Connected
-
-Keep up with the latest news and updates about Piglet's Big Game:
-
-- Follow our blog
-- Subscribe to our newsletter
-- Join our social media communities
-- Participate in official forums
-- Watch our development livestreams
-
-## Legal Information
-
-Piglet's Big Game is a registered trademark. All rights reserved. For complete terms of service and privacy policy, please visit our official website.
 
 ---
 
